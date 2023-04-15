@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>Dark theme for <a href="https://website-link.com">X</a></strong>
+  <strong>Dark theme for <a href="https://website-link.com">WezTerm</a></strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Omni screnshoot for X" src="./screenshot.png">
+  <img alt="Omni screnshoot for WezTerm" src="./screenshot.png">
 </p>
 
 ## Install
@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/template/graphs/contributors).
 
-| [![João Pedro](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
+| [![Eduardo Rodrigues](https://github.com/EduardoRodriguesF.png?size=100)](https://github.com/EduardoRodriguesF) |
 | ------------------------------------------------------------------------------------------------ |
-| [João Pedro](https://github.com/jpedroschmitz)                                                   |
+| [Eduardo Rodrigues](https://github.com/EduardoRodriguesF)                                               |
 
 ## License
 
